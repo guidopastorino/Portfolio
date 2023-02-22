@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3ddbdfe.css",
+    "main.js": "/static/js/main.a0b1fa15.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/youclone-desk.JPG": "/static/media/youclone-desk.8c6348fd1ef7c373f08f.JPG",
+    "static/media/news-desk.JPG": "/static/media/news-desk.e7d05713b4aff7fe546d.JPG",
+    "static/media/Guido Pastorino CV.pdf": "/static/media/Guido Pastorino CV.fc7fdc3de62666541bf4.pdf",
+    "static/media/bank-desk.JPG": "/static/media/bank-desk.1dc938552f8f2272f765.JPG",
+    "static/media/youclone-mobile.JPG": "/static/media/youclone-mobile.3bb71d59891f09e300a2.JPG",
+    "static/media/bookmark-desk.JPG": "/static/media/bookmark-desk.d1fead230e68d79700c2.JPG",
+    "static/media/news-mobile.JPG": "/static/media/news-mobile.c6fd25739d5f3ff5191d.JPG",
+    "static/media/bank-mobile.JPG": "/static/media/bank-mobile.c5209cc04d82d7aeb174.JPG",
+    "static/media/blogr-desk.JPG": "/static/media/blogr-desk.37b23af6742c30a0d3f4.JPG",
+    "static/media/bookmark-mobile.JPG": "/static/media/bookmark-mobile.e579d039a4fd3183cbc1.JPG",
+    "static/media/blogr-mobile.JPG": "/static/media/blogr-mobile.8802b65a9a11efae536f.JPG",
+    "index.html": "/index.html",
+    "static/media/Loader Dark.svg": "/static/media/Loader Dark.fb8764854829ea6573da0540e24af255.svg",
+    "static/media/Loader Light.svg": "/static/media/Loader Light.3d4ff29930c8b306c9f3adcba66d7215.svg",
+    "main.c3ddbdfe.css.map": "/static/css/main.c3ddbdfe.css.map",
+    "main.a0b1fa15.js.map": "/static/js/main.a0b1fa15.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3ddbdfe.css",
+    "static/js/main.a0b1fa15.js"
+  ]
+}
